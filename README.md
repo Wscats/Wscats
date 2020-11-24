@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Tencent.
 - 💬 Experience and sharing: [My Memories](https://github.com/Wscats/articles).
-- 📫 How to reach me: Wechat: `k729299641`.
+- 📫 How to reach me: Wechat = `k729299641`.
 - ⚡ Fun fact: You would call me ✨ Lao Yao ✨.
 
 ### 🔥 Project

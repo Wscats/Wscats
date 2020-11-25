@@ -2,7 +2,7 @@
 
 ### 👨‍🚒 About me
 
-- 🔭 I’m currently working on Tencent.
+- 🔭 I’m currently working on Tencent = `腾讯`.
 - 💬 Experience and sharing: [`前端回忆录`](https://github.com/Wscats/articles).
 - 📫 How to reach me: Wechat = `k729299641`.
 - ⚡ Fun fact: You would call me ✨ Lao Yao ✨.

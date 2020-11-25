@@ -10,7 +10,7 @@
 ### 🔥 Project
 
 - 🔰 [`Compile Hero`]() Visual Studio Code Extension For Compiling Language.
-- 🎹 [`Piano`](https://github.com/Wscats/piano) Play piano with 8 keys on the keyboard is given to myself.
+- 🎹 [`Piano`](https://github.com/Wscats/piano) Play piano with 8 keys on the keyboard is given to yourself.
 - 📃 [`Vue2教程`](https://github.com/Wscats/vue-tutorial) [`Vue3教程`](https://github.com/Wscats/vue-cli) [`Node教程`](https://github.com/Wscats/node-tutorial) [`React教程`](https://github.com/Wscats/react-tutorial) [`Angular教程`](https://github.com/Wscats/angular-tutorial) ...
 
 <!-- 

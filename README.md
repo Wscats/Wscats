@@ -4,8 +4,9 @@
 
 - 🔭 I’m currently working on null.
 - 💬 Experience and sharing: [`前端回忆录`](https://github.com/Wscats/articles).
-- 📫 How to reach me: QQ = `729299641`.
+- ✏️ [`博客`](https://blog.csdn.net/qq_27080247) [`掘金`](https://juejin.cn/user/2559318798639447) [`Segmentfault`](https://segmentfault.com/u/wscats).
 - ⚡ Fun fact: You would call me ✨ Lao Yao ✨.
+<!-- - 📫 How to reach me: QQ = `729299641`. -->
 
 ### 🔥 Project
 

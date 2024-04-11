@@ -4,10 +4,11 @@
 
 ### 👨‍🚒 About me
 
-- 🔭 I’m currently working on null.
-- 💬 Experience and sharing: [`前端回忆录`](https://github.com/Wscats/articles).
+- 🏫 I’m from `Shanghai Jiao Tong University` and work at `Tencent`.
 - ✏️  [`Segmentfault`](https://segmentfault.com/u/wscats) [`CSDN`](https://blog.csdn.net/qq_27080247) [`掘金`](https://juejin.cn/user/2559318798639447) [`码云`](https://gitee.com/wscats) [`博客园`](https://www.cnblogs.com/enoy).
+- 💬 Experience and sharing: [`前端回忆录`](https://github.com/Wscats/articles).
 - ⚡ Fun fact: You would call me ✨ Yi Lou ✨.
+<!-- - 🔭 I’m currently working on null. -->
 <!-- - 📫 How to reach me & WeChat: eno-yao -->
 <!-- - 📫 How to reach me: QQ = `729299641`. -->
 

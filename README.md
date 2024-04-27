@@ -1,6 +1,6 @@
 <!-- 访问量 -->
 <img height="0" width="0" src="https://profile-counter.glitch.me/wscats/count.svg" />
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=wscats&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=wscats&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 ### 👨‍🚒 About me
 
